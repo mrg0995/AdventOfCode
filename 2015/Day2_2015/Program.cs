@@ -7,7 +7,7 @@ List<string> presents = new List<string>();
 
 try
 {
-    StreamReader sr = new StreamReader("C:\\Users\\ProtoMkUser\\Downloads\\InputDia2.txt");
+    StreamReader sr = new StreamReader("Your_Route");
 
     line = sr.ReadLine();
 
