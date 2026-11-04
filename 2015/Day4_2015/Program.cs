@@ -32,9 +32,7 @@ using (MD5 md5 = MD5.Create())
         }
 
         numero++;
-
     }
-
 }
 
 Console.WriteLine($"Número utilizado: {numero}");
