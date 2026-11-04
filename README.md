@@ -16,17 +16,29 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 ## 📊 Progreso General
 
 | Año | Estrellas conseguidas | Estado |
+
 | **2015** | ⭐️ 10 / 50 | 🟡 En Progreso |
+
 | **2016** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2017** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2018** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2019** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2020** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2021** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2022** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2023** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2024** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2025** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+
 | **2026** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
 
 ---
