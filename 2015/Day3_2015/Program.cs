@@ -7,7 +7,7 @@ string directions = string.Empty;
 
 try
 {
-    StreamReader sr = new StreamReader("C:\\Users\\ProtoMkUser\\Desktop\\Day3_2015.txt");
+    StreamReader sr = new StreamReader("Your_Route");
 
     directions += sr.ReadLine();
 
