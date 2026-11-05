@@ -5,7 +5,7 @@ using System.IO;
 Dictionary<string, string> instructions = new Dictionary<string, string>();
 Dictionary<string, ushort> memo = new Dictionary<string, ushort>();
 
-string filePath = "C:\\Users\\ProtoMkUser\\Desktop\\Day7_2015.txt";
+string filePath = "Your_Route";
 
 if (!File.Exists(filePath))
 {
