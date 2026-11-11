@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Linq;
 
-string[] lines = File.ReadAllLines(@"D:\Archivos Importantes\VS Code\AdventOfCode\Day19_2015\Day19_2015.txt");
+string[] lines = File.ReadAllLines(@"Your_Route");
 
 var replacements = new List<(string From, string To)>();
 string targetMolecule = "";
