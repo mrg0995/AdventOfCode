@@ -7,7 +7,7 @@ List<string> words = new List<string>();
 
 try
 {
-    StreamReader sr = new StreamReader("C:\\Users\\ProtoMkUser\\Desktop\\Day5_2015.txt");
+    StreamReader sr = new StreamReader("Your_Route");
 
     line = sr.ReadLine();
 
