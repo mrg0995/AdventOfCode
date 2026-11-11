@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using System.IO;
 using System.Text.RegularExpressions;
 
-string rutaArchivo = @"C:\Users\ProtoMkUser\Desktop\Day15_2015.txt";
+string rutaArchivo = @"Your_Route";
 string patron = @"^(\w+): capacity (-?\d+), durability (-?\d+), flavor (-?\d+), texture (-?\d+), calories (-?\d+)$";
 
 var ingredientes = File.ReadAllLines(rutaArchivo)
