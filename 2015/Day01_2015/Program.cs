@@ -3,13 +3,10 @@ using System.IO;
 string line = string.Empty;
 try
 {
-    //Pass the file path and file name to the StreamReader constructor
-    StreamReader sr = new StreamReader("C:\\Users\\ProtoMkUser\\Desktop\\InputDi1.txt");
+    StreamReader sr = new StreamReader("Your_Route");
 
-    //Read the first line of text
     line += sr.ReadLine();
 
-    //close the file
     sr.Close();
 }
 catch (Exception e)
