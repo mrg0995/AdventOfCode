@@ -16,12 +16,6 @@ class Program
     {
         string rutaArchivo = @"Your_Route";
 
-        if (!File.Exists(rutaArchivo))
-        {
-            Console.WriteLine($"No se encontró el archivo en: {rutaArchivo}");
-            return;
-        }
-
         Console.WriteLine($"Parte 1 - Tía correcta: {ResolverParte1(rutaArchivo)}");
         Console.WriteLine($"Parte 2 - Tía correcta: {ResolverParte2(rutaArchivo)}");
     }
