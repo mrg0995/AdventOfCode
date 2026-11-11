@@ -5,13 +5,7 @@ using System.IO;
 Dictionary<string, string> instructions = new Dictionary<string, string>();
 Dictionary<string, ushort> memo = new Dictionary<string, ushort>();
 
-string filePath = "C:\\Users\\ProtoMkUser\\Desktop\\Day7_2015.txt";
-
-if (!File.Exists(filePath))
-{
-    Console.WriteLine($"No se encontró el archivo '{filePath}'. Asegúrate de crearlo en la misma carpeta con tu puzzle input.");
-    return;
-}
+string filePath = "Your_Route";
 
 using (StreamReader reader = new StreamReader(filePath))
 {
