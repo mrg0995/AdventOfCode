@@ -2,7 +2,7 @@
 using System.Collections.Generic;
 using System.IO;
 
-string map = File.ReadAllText(@"C:\Users\ProtoMkUser\Desktop\Proyectos\AdventOfCode\Day01_2016\Day01_2016.txt");
+string map = File.ReadAllText(@"Your_Route");
 var (part1, part2) = Solve(map);
 
 Console.WriteLine($"Parte 1 - Distancia final: {part1}");
