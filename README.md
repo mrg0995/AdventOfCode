@@ -19,7 +19,7 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 
 | **2015** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2016** | ⭐️ 6 / 50 | 🟡 En Progreso |
+| **2016** | ⭐️ 8 / 50 | 🟡 En Progreso |
 
 | **2017** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
 
