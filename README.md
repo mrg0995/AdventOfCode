@@ -8,7 +8,7 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 
 ## 🚀 Lenguaje(s) Utilizado(s)
 
-* **Lenguaje principal:** C#
+* **Lenguaje principal:** C# (y Python a partir de 2017)
 * **Objetivo:** Mejorar mis habilidades de resolución de problemas, escribir código limpio y divertirme aprendiendo.
 
 ---
