@@ -19,9 +19,9 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 
 | **2015** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2016** | ⭐️ 44 / 50 | 🟡 En Progreso |
+| **2016** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2017** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+| **2017** | ⭐️ 0 / 50 | 🟡 En Progreso |
 
 | **2018** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
 
