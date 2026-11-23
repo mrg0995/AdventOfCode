@@ -21,7 +21,7 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 
 | **2016** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2017** | ⭐️ 0 / 50 | 🟡 En Progreso |
+| **2017** | ⭐️ 8 / 50 | 🟡 En Progreso |
 
 | **2018** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
 
