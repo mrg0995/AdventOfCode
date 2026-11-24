@@ -12,7 +12,7 @@ def solve_captcha(digits: str, step: int) -> int:
     )
 
 def main() -> None:
-    raw_input = Path(r"Your_Route").read_text(encoding="utf-8").strip()
+    raw_input = Path("input01.txt").read_text(encoding="utf-8").strip()
 
     if not raw_input or not raw_input.isdigit():
         raise ValueError("La entrada debe contener solo dígitos.")
