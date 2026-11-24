@@ -17,7 +17,7 @@ def solve(jumps: list[int], is_part2: bool) -> int:
 
 
 def main() -> None:
-    input_path = Path(r"C:\Users\ProtoMkUser\Desktop\Proyectos\AdventOfCode\2017\Day05_2017\Day05_2017.txt")
+    input_path = Path("input05.txt")
     if not input_path.exists():
         print("No se encontró 'input.txt' en el directorio actual.")
         return
