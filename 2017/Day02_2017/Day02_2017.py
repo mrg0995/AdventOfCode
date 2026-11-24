@@ -18,7 +18,7 @@ def row_evenly_divisible_quotient(row: list[int]) -> int:
     raise ValueError("No se encontró ningún par divisible de forma exacta en la fila.")
 
 def main() -> None:
-    raw_input = Path(r"Your_Route").read_text(encoding="utf-8")
+    raw_input = Path("input02.txt").read_text(encoding="utf-8")
     rows = parse_rows(raw_input)
 
     part1 = sum(row_difference(row) for row in rows)
