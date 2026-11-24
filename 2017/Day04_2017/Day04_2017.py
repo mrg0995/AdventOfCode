@@ -12,7 +12,7 @@ def is_valid_no_anagrams(passphrase: str) -> bool:
 def main() -> None:
     lines = [
         line
-        for line in Path(r"C:\Users\ProtoMkUser\Desktop\Proyectos\AdventOfCode\2017\Day04_2017\Day04_2017.txt").read_text(encoding="utf-8").splitlines()
+        for line in Path("input04.txt").read_text(encoding="utf-8").splitlines()
         if line.strip()
     ]
 
