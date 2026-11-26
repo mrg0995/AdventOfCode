@@ -23,9 +23,9 @@ Este espacio recopila mi código diario para resolver los puzles de lógica y pr
 
 | **2017** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2018** | ⭐️ 0 / 50 | 🟡 En Progreso |
+| **2018** | ⭐️ 50 / 50 | 🟢 Completado |
 
-| **2019** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
+| **2019** | ⭐️ 0 / 50 | 🟡 En Progreso |
 
 | **2020** | ⭐️ 0 / 50 | 🔴 Sin Comenzar |
 
