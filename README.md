@@ -50,12 +50,13 @@ El proyecto está organizado por años y días para mantener todo ordenado:
 ```text
 .
 ├── 2015/
-│   ├── Day1_2015/
+│   ├── Day01_2015/
+│   │   ├── Day01_2015.py
 │   │   ├── Day1_2015.csproj
 │   │   ├── Day1_2015.slnx
-│   │   ├── InputDia1.txt
+│   │   ├── Day1_2015.txt
 │   │   ├── Program.cs
-│   ├── Day2_2015/
+│   ├── Day02_2015/
 │   ...
 ├── LICENSE
 └── README.md
