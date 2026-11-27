@@ -51,10 +51,10 @@ El proyecto está organizado por años y días para mantener todo ordenado:
 .
 ├── 2015/
 │   ├── Day01_2015/
-│   │   ├── Day1_2015.csproj
+│   │   ├── Day01_2015.csproj
 │   │   ├── Day01_2015.py
-│   │   ├── Day1_2015.slnx
-│   │   ├── Day1_2015.txt
+│   │   ├── Day01_2015.slnx
+│   │   ├── Day01_2015.txt
 │   │   ├── Program.cs
 │   ├── Day02_2015/
 │   ...
